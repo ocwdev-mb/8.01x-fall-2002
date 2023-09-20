@@ -1,0 +1,21 @@
+leftnav:
+- identifier: ae20c0c1-8cd9-f606-a913-14e9282c94d6
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 70ce862e-9814-4ddb-a6a3-0510e258146e
+  name: Labs
+  pageRef: /pages/labs
+  weight: 20
+- identifier: 200a7e41-26a7-1317-a96b-a727b7fcc90d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 0438632c-5c05-172a-947c-d8f10b05baef
+  name: Exams
+  pageRef: /pages/exams
+  weight: 40
+- identifier: da202d3a-f83b-ad04-3813-f48a9e3b7f44
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 50
